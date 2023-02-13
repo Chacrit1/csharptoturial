@@ -1,0 +1,15 @@
+E:\docs\c#\Access Modifiers\bin\Debug\net7.0\Access Modifiers.exe
+E:\docs\c#\Access Modifiers\bin\Debug\net7.0\Access Modifiers.deps.json
+E:\docs\c#\Access Modifiers\bin\Debug\net7.0\Access Modifiers.runtimeconfig.json
+E:\docs\c#\Access Modifiers\bin\Debug\net7.0\Access Modifiers.dll
+E:\docs\c#\Access Modifiers\bin\Debug\net7.0\Access Modifiers.pdb
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\Access Modifiers.csproj.AssemblyReference.cache
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\Access Modifiers.AssemblyInfoInputs.cache
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\Access Modifiers.AssemblyInfo.cs
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\Access Modifiers.csproj.CoreCompileInputs.cache
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\Access Modifiers.dll
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\refint\Access Modifiers.dll
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\Access Modifiers.pdb
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\Access Modifiers.genruntimeconfig.cache
+E:\docs\c#\Access Modifiers\obj\Debug\net7.0\ref\Access Modifiers.dll
